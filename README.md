@@ -19,12 +19,12 @@
    </div>
     
   
-  <h1 align="center">Caso queira dar uma olhada</h1>
+  <h1 align="center">Caso queira falar comigo</h1>
     <a href = "mailto: work.luizz.alvaro@gmail.com">
-      <img width="28" src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png">
+      <img width="33" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp">
     </a>
     <a href = "https://www.instagram.com/alviinlz/">
-      <img width="34" src="https://logo-download.com/wp-content/data/images/png/Instagram-logo.png">
+      <img width="31" src="https://www.itabirito.mg.leg.br/imagens/insta.png">
     </a>
 </div>
   
