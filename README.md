@@ -23,7 +23,7 @@
     <a href = "mailto: work.luizz.alvaro@gmail.com">
       <img width="33" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp">
     </a>
-    <a href = "https://www.instagram.com/alviinlz/">
+    <a href = "https://www.instagram.com/alviinlz_/">
       <img width="31" src="https://www.itabirito.mg.leg.br/imagens/insta.png">
     </a>
 </div>
