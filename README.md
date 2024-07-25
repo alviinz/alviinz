@@ -1,7 +1,7 @@
 ## </Journey to dev> 💢
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464646&height=120&section=header"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&duration=4999&pause=1000&color=FFFFFF&center=true&vCenter=true&width=529&height=60&lines=Opa%2C+fala+a%C3%AD!;Tenho+17+anos;Fa%C3%A7o+ci%C3%AAncias+da+computa%C3%A7%C3%A3o;Deem+uma+olhada+no+meu+perfil;..(%C2%AC_%C2%AC)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&duration=4999&pause=1000&color=FFFFFF&center=true&vCenter=true&width=529&height=60&lines=Opa%2C+fala+a%C3%AD!;Tenho+18+anos;Fa%C3%A7o+ci%C3%AAncias+da+computa%C3%A7%C3%A3o;Deem+uma+olhada+no+meu+perfil;..(%C2%AC_%C2%AC)" alt="Typing SVG" /></a>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alviinz&bg_color=0d1117&color=5e5e5e&line=5e5e5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
