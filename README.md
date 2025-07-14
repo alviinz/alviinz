@@ -36,9 +36,11 @@
     <a href: "https://www.linkedin.com/in/%C3%A1lvaro-nascimento-815890325/">
       <img width="30" src="https://logopng.com.br/logos/linkedin-83.png">
     </a>
+</div align="center">
+  <img src="https://raw.githubusercontent.com/alviinz/alviinz/output/snake.svg" alt="Snake animation" />
+<div>
+  
 </div>
-
-
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464646&height=120&section=footer"/>
