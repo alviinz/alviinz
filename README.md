@@ -12,7 +12,6 @@
   <img align="right" height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alviinz&layout=compact&langs_count=16&theme=algolia"/>
   <img align="right" src="https://media.tenor.com/emKPWW5yszEAAAAm/pixel-art-shadows.webp" width="200px"/>
   <img align="right" src="https://media.tenor.com/emKPWW5yszEAAAAm/pixel-art-shadows.webp" width="200px"/>
-  <img align="right" src="https://media.tenor.com/emKPWW5yszEAAAAm/pixel-art-shadows.webp" width="200px"/>
 </div>
 
 <div  align="left">
@@ -41,12 +40,7 @@
     </a>
     
   <div/>
-    
-  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alviinz/alviinz/output/snake.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50047C&height=120&section=footer"/>
