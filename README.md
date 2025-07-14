@@ -34,7 +34,7 @@
      <a href = "https://www.instagram.com/alviinlz_/">
       <img width="142" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    <a href = "mailto: work.luizz.alvaro@gmail.com">
+    <a href = "mailto:luizz.alvaro@gmail.com">
       <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href: "www.linkedin.com/in/alviinl">
