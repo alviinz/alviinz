@@ -11,7 +11,6 @@
   <img  align="right" height="120cm" src="https://github-readme-stats.vercel.app/api?username=alviinz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="right" height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alviinz&layout=compact&langs_count=16&theme=algolia"/>
   <img align="right" src="https://media.tenor.com/emKPWW5yszEAAAAm/pixel-art-shadows.webp" width="200px"/>
-  <img align="right" src="https://media.tenor.com/emKPWW5yszEAAAAm/pixel-art-shadows.webp" width="200px"/>
 </div>
 
 <div  align="left">
