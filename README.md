@@ -34,10 +34,10 @@
      <a href = "https://www.instagram.com/alviinlz_/">
       <img width="142" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    <a href = "mailto:luizz.alvaro@gmail.com">
+    <a href = "mailto:luizz.alvaro@gmail.com?subject=Contato%20do%20GitHub&body=Olá,%20vim%20pelo%20seu%20GitHub">
       <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href= "www.linkedin.com/in/alviinl">
+    <a href= "www.linkedin.com/in/alviinl/">
       <img width="105" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href= "https://github.com/alviinz">
