@@ -1,4 +1,3 @@
-### Oxe Mainha
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50047C&height=120&section=header"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=310&size=25&duration=3500&pause=500&color=50047C&center=true&vCenter=true&width=600&lines=Wait...+Did+you+find+my+profile%3F+%E2%99%A8%EF%B8%8E_%E2%99%A8%EF%B8%8E;Err...+Forget+that%2C+please.+%3D.%3D;Let's+start+again!!+%5E0%5E;Hi+there!+How+are+you+doing%3F;I'm+19+and+from+Brazil;Hope+you+like...+something+(%C2%AC_%C2%AC%22)" alt="Typing SVG" /></a>
@@ -17,12 +16,12 @@
 
 <div  align="left">
   
- <h3 align="left"><i>T E C H N O L O G I E S</i></h3>
+ <h3 align="left"><i>🛰️ T E C H N O L O G I E S</i></h3>
   <div style="display: inline_block">
     <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,git,github" width="330"/>
   </div>
   <br>
-  <h3 align="left"><i>C O N T A C T</i></h3>
+  <h3 align="left"><i>☎️ C O N T A C T</i></h3>
   <div align="left">
      <a href = "https://www.instagram.com/alviinlz_/" target="_blank">
       <img width="115" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
