@@ -37,10 +37,10 @@
     <a href = "mailto:luizz.alvaro@gmail.com">
       <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href: "www.linkedin.com/in/alviinl">
+    <a href= "www.linkedin.com/in/alviinl">
       <img width="105" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href: "https://github.com/alviinz">
+    <a href= "https://github.com/alviinz">
       <img width="115" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </a>
   <div/>
