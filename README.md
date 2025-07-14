@@ -39,8 +39,7 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/alviinz/alviinz/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/alviinz/alviinz/output/snake.svg" alt="Snake animation" />
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
