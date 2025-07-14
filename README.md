@@ -36,9 +36,10 @@
   <div/>
 <br>
 <br>
-    
-<img src="https://raw.githubusercontent.com/gitUser/alviinz/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/alviinz/alviinz/output/snake.svg" alt="Snake animation" />
+</div>
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50047C&height=120&section=footer"/>
 <div>
