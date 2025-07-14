@@ -34,15 +34,13 @@
      <a href = "https://www.instagram.com/alviinlz_/" target="_blank">
       <img width="142" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    <a href = "https://mailto:luizz.alvaro@gmail.com" target="_blank">
+    <a href = "https://mail.google.com/mail/?view=cm&to=luizz.alvaro@gmail.com" target="_blank">
       <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href= "https://www.linkedin.com/in/alviinl/" target="_blank">
       <img width="105" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href= "https://github.com/alviinz" target="_blank">
-      <img width="115" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    </a>
+    
   <div/>
 </div align="center">
   <img src="https://raw.githubusercontent.com/alviinz/alviinz/output/snake.svg" alt="Snake animation" />
