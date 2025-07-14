@@ -7,8 +7,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alviinz&bg_color=0d1117&color=50047C&line=50047C&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img  align="left" height="140cm" src="https://github-readme-stats.vercel.app/api?username=alviinz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img align="right" height="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alviinz&layout=compact&langs_count=16&theme=gotham"/>
+  <img  height="140cm" src="https://github-readme-stats.vercel.app/api?username=alviinz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alviinz&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 
 <br><br/>
