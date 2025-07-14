@@ -39,14 +39,6 @@
     </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/alviinz/alviinz/blob/output/snake.svg" alt="Snake animation" />
- 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alviinz}/count.svg" /></p> 
-<br>
-</div>
-
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464646&height=120&section=footer"/>
 <div>
