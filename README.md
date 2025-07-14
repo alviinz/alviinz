@@ -37,7 +37,7 @@
     <a href = "https://mail.google.com/mail/?view=cm&to=luizz.alvaro@gmail.com" target="_blank">
       <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href= "www.linkedin.com/in/alviinl/">
+    <a href= "www.linkedin.com/in/alviinl/ target="_blank">
       <img width="105" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href= "https://github.com/alviinz">
