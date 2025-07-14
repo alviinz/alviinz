@@ -1,7 +1,7 @@
 ## Oi, me chamo Álvaro Luiz | Hi, my name is Álvaro Luiz
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50047C&height=120&section=header"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=310&size=23&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=470&lines=Oi%2C+tudo+bem%3F;Bem+vindo(a)+ao+meu+perfil!;Eu+tenho+19+anos+e+moro+em+Areia-PB;Espero+que+goste+de+algo+(%C2%AC_%C2%AC%22);Hi%2C+are+you+fine%3F;Welcome+to+my+profile!;I'm+19%2C+from+Para%C3%ADba%2C+Brazil;I+hope+you+like+something+(%C2%AC_%C2%AC%22)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=310&size=23&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=490&lines=Oi%2C+tudo+bem%3F;Bem+vindo(a)+ao+meu+perfil!;Eu+tenho+19+anos+e+moro+em+Areia-PB;Espero+que+goste+de+algo+(%C2%AC_%C2%AC%22);Hi%2C+are+you+fine%3F;Welcome+to+my+profile!;I'm+19%2C+from+Para%C3%ADba%2C+Brazil;I+hope+you+like+something+(%C2%AC_%C2%AC%22)" alt="Typing SVG" /></a>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alviinz&bg_color=0d1117&color=50047C&line=50047C&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
