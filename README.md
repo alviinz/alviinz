@@ -37,7 +37,7 @@
 <br>
 <br>
     
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alviinz&bg_color=0d1117&color=50047C&line=50047C&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/gitUser/alviinz/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50047C&height=120&section=footer"/>
