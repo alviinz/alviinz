@@ -16,13 +16,12 @@
 
 <div  align="left">
   
-
- ### *Programming Languages* 
+ <h3 align="left"><i>T E C H N O L O G I E S</i></h3>
   <div style="display: inline_block">
     <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,git,github" width="330"/>
   </div>
   <br>
-  <h3 align="left"><i>Social Networks</i></h3>
+  <h3 align="left"><i>C O N T A C T</i></h3>
   <div align="left">
      <a href = "https://www.instagram.com/alviinlz_/" target="_blank">
       <img width="115" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
