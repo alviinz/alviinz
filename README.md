@@ -18,24 +18,19 @@
 
  ### *Programming Languages* 
   <div style="display: inline_block">
-    <img align="left" height="30" width="25" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="left" height="30" width="25" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="left" height="30" width="25" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="left" height="30" width="25" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="left" height="30" width="25" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="left" height="30" width="25" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,git,github" width="330"/>
   </div>
   <br>
   <h3 align="left"><i>Social Networks</i></h3>
   <div align="left">
      <a href = "https://www.instagram.com/alviinlz_/" target="_blank">
-      <img width="97" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+      <img width="115" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
     <a href = "https://mail.google.com/mail/?view=cm&to=luizz.alvaro@gmail.com" target="_blank">
-      <img width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <img width="82" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href= "https://www.linkedin.com/in/alviinl/" target="_blank">
-      <img width="73" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img width="85" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     
   <div/>
