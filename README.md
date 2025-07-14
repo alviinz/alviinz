@@ -39,7 +39,7 @@
     </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/alviinz/alviinz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alviinz/alviinz/blob/output/snake.svg" alt="Snake animation" />
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
